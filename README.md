@@ -4,11 +4,11 @@
 
 #Step 2: Open client directory and run the following command to install the packages.
 
-### `npm init`
+### `npm install`
 
 #Step 3: Open server directory and run the following command to install the packages.
 
-### `npm init`
+### `npm install`
 
 #Step 4: Create a database named 'apna-bazaar' using MongoDB.
 
